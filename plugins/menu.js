@@ -54,7 +54,7 @@ ${more.repeat(1000)}
   Command  
 // ${_p}menu
 // ${_p}help
-// ${_p}
+// ${_p}?
 
   Others  
 // ${_p}qr <teks>
