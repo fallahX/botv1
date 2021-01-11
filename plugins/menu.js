@@ -49,7 +49,7 @@ ${more.repeat(1000)}
 ///〘 Menu 〙///
 
    Xp  
-➥ ${_p}leaderboard [jumlah user]
+//${_p}leaderboard [jumlah user]
 
   Command  
 // ${_p}menu
